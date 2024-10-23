@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "Updating System"
 Sudo apt -y update
