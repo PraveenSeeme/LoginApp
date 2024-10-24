@@ -8,5 +8,5 @@ spec:
     app: nginx
   ports:
   - port: 80
-    targetPort: 80
+    targetort: 80
     nodePort: 30005
