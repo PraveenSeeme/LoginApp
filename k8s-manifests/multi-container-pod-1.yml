@@ -7,9 +7,9 @@ spec:
   - name: c1
     image: nginx
     ports:
-    - containerPod: 80
+    - containerPort: 80
 
   - name: c2
     image: nginx
     ports:
-    - containerPod: 80
+    - containerPort: 80
